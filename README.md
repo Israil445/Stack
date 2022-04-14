@@ -1,1 +1,1 @@
-# Stack
+this topic is data stracture 
